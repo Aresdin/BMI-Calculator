@@ -33,7 +33,7 @@ class _InputPageState extends State<InputPage> {
         title: Center(child: Text('BMI CALCULATOR')),
       ),
       body: Center(
-        child: Text('Body Text',
+        child: Text('Hiiiiiiiiiii',
             style: TextStyle(
               fontSize: 20,
               color: Colors.white,
